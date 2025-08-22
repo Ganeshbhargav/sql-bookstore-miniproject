@@ -144,5 +144,32 @@ INSERT INTO books (book_id, title, author, genre, price, rating) VALUES
 
 | Query | Output |
 |-------|--------|
-| 3rd to 7th highest-rated books | <img src="./assets/Screenshot 2025-08-22 133738.png" width="400"> |
-| Next 5 cheapest books (skip first 5) | <img src="./assets/Screenshot 2025-08-22 133802.png" width="400"> |
+| 3rd to 7th highest-rated books | <img src="./assets/3rd to 7th highest-rated books.png" width="400"> |
+| Next 5 cheapest books (skip first 5) | <img src="./assets/Next 5 cheapest books (skip first 5).png" width="400"> |
+
+---
+## ▶️ How to Run
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Ganeshbhargav/sql-bookstore-miniproject.git
+   cd sql-bookstore-miniproject
+
+2. Open MySQL and run the .sql files to create database and tables.
+
+3. Run the queries in your preferred SQL client (MySQL Workbench, VS Code extension, or CLI).
+
+4. Check the screenshots in the assets/ folder for sample query outputs.
+
+---
+ ## 💻 Tech Stack
+1. MySQL (or any SQL RDBMS)
+2. SQL Workbench / Command Line
+---
+
+## 👨‍💻 Author
+
+  **Ganesh Bhargav Arani**
+    - 📧 [Email](ganeshbhargav619@gmail.com]) 
+    - 🔗 [GitHub](https://github.com/Ganeshbhargav)
+  

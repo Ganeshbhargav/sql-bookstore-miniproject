@@ -161,11 +161,11 @@ INSERT INTO books (book_id, title, author, genre, price, rating) VALUES
 
 4. Check the screenshots in the assets/ folder for sample query outputs.
 
----
+
  ## 💻 Tech Stack
 1. MySQL (or any SQL RDBMS)
 2. SQL Workbench / Command Line
----
+
 
 ## 👨‍💻 Author
 

@@ -141,3 +141,8 @@ INSERT INTO books (book_id, title, author, genre, price, rating) VALUES
 ```
 ---
 ## Sample Query Outputs  
+
+| Query | Output |
+|-------|--------|
+| 3rd to 7th highest-rated books | <img src="./assets/Screenshot 2025-08-22 133738.png" width="400"> |
+| Next 5 cheapest books (skip first 5) | <img src="./assets/Screenshot 2025-08-22 133802.png" width="400"> |
